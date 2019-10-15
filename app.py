@@ -1,6 +1,7 @@
 from typing import List, Dict
 import logging
 import json
+import time
 import urllib.request
 import streamlit as st
 
@@ -8,6 +9,17 @@ import streamlit as st
 logger = logging.getLogger(__name__)
 
 JSON_URL = "https://raw.githubusercontent.com/virusvn/streamlit-components-demo/master/streamlit_apps.json"
+
+
+def st_log(func):
+    def log_func(*args, **kwargs):
+        start = time.time()
+        res = func(*args, **kwargs)
+        end = time.time() - start
+        st.text("Log: the function `%s` tooks %0.4f seconds" % (func.__name__, end))
+        return res
+
+    return log_func
 
 
 def main():
@@ -18,6 +30,7 @@ def main():
     components()
 
 
+@st_log
 def components():
 
     apps = get_apps(JSON_URL)  # type: Dict[str, str]
@@ -38,6 +51,7 @@ def components():
             st.header("Result")
             exec(python_code)
             st.header("Source code")
+            st.markdown("Link: [Github](%s)" % apps[run_app])
             st.code(python_code)
         except Exception as e:
             st.write("Error occurred when execute [{0}]".format(run_app))
@@ -52,6 +66,7 @@ def about():
     st.markdown(content)
 
 
+@st_log
 @st.cache
 def get_apps(url: str) -> Dict[str, str]:
     json_obj = fetch_json(url)
@@ -64,6 +79,7 @@ def get_apps(url: str) -> Dict[str, str]:
     return apps
 
 
+@st_log
 @st.cache
 def fetch_json(url: str):
     data = urllib.request.urlopen(url).read()
@@ -71,6 +87,7 @@ def fetch_json(url: str):
     return output
 
 
+@st_log
 @st.cache
 def get_file_content_as_string(url: str):
     data = urllib.request.urlopen(url).read()
