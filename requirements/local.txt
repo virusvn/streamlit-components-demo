@@ -1,2 +1,2 @@
-pip -r local.txt
+-r base.txt
 black==19.3b0
