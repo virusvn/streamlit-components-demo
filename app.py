@@ -4,6 +4,7 @@ import json
 import time
 import urllib.request
 import streamlit as st
+import requests
 
 # Get an instance of a logger
 logger = logging.getLogger(__name__)
