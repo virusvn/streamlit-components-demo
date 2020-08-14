@@ -1,142 +1,141 @@
-[
-  {
-    "name": "charts.area_chart",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.area_chart.py"
-  },
-  {
-    "name": "charts.audio",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.audio.py"
-  },
-  {
-    "name": "charts.bar_chart",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.bar_chart.py"
-  },
-  {
-    "name": "charts.bokeh_chart",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.bokeh_chart.py"
-  },
-  {
-    "name": "charts.deck_gl_charts1",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.deck_gl_charts1.py"
-  },
-  {
-    "name": "charts.deck_gl_charts2",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.deck_gl_charts2.py"
-  },
-  {
-    "name": "charts.graphviz_chart",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.graphviz_chart.py"
-  },
-  {
-    "name": "charts.image",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.image.py"
-  },
-  {
-    "name": "charts.line_chart",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.line_chart.py"
-  },
-  {
-    "name": "charts.map",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.map.py"
-  },
-  {
-    "name": "charts.plotly_chart",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.plotly_chart.py"
-  },
-  {
-    "name": "charts.pyplot",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.pyplot.py"
-  },
-  {
-    "name": "charts.vega_lite_chart",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.vega_lite_chart.py"
-  },
-  {
-    "name": "charts.video",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/charts.video.py"
-  },
-  {
-    "name": "data.dataframe",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/data.dataframe.py"
-  },
-  {
-    "name": "data.json",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/data.json.py"
-  },
-  {
-    "name": "data.table",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/data.table.py"
-  },
-  {
-    "name": "text.code",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.code.py"
-  },
-  {
-    "name": "text.header",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.header.py"
-  },
-  {
-    "name": "text.markdown",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.markdown.py"
-  },
-  {
-    "name": "text.subheader",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.subheader.py"
-  },
-  {
-    "name": "text.text",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.text.py"
-  },
-  {
-    "name": "text.title",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.title.py"
-  },
-  {
-    "name": "text.write1",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.write1.py"
-  },
-  {
-    "name": "text.write2",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.write2.py"
-  },
-  {
-    "name": "text.write3",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/text.write3.py"
-  },
-  {
-    "name": "widget.button",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.button.py"
-  },
-  {
-    "name": "widget.checkbox",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.checkbox.py"
-  },
-  {
-    "name": "widget.date_input",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.date_input.py"
-  },
-  {
-    "name": "widget.radio",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.radio.py"
-  },
-  {
-    "name": "widget.selectbox",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.selectbox.py"
-  },
-  {
-    "name": "widget.slider",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.slider.py"
-  },
-  {
-    "name": "widget.text_area",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.text_area.py"
-  },
-  {
-    "name": "widget.text_input",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.text_input.py"
-  },
-  {
-    "name": "widget.time_input",
-    "url": "https://raw.githubusercontent.com/streamlit/streamlit/master/docs/api-examples-source/widget.time_input.py"
-  }
+[{
+        "name": "charts.area_chart",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.area_chart.py"
+    },
+    {
+        "name": "charts.audio",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.audio.py"
+    },
+    {
+        "name": "charts.bar_chart",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.bar_chart.py"
+    },
+    {
+        "name": "charts.bokeh_chart",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.bokeh_chart.py"
+    },
+    {
+        "name": "charts.deck_gl_charts1",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.deck_gl_charts1.py"
+    },
+    {
+        "name": "charts.deck_gl_charts2",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.deck_gl_charts2.py"
+    },
+    {
+        "name": "charts.graphviz_chart",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.graphviz_chart.py"
+    },
+    {
+        "name": "charts.image",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.image.py"
+    },
+    {
+        "name": "charts.line_chart",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.line_chart.py"
+    },
+    {
+        "name": "charts.map",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.map.py"
+    },
+    {
+        "name": "charts.plotly_chart",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.plotly_chart.py"
+    },
+    {
+        "name": "charts.pyplot",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.pyplot.py"
+    },
+    {
+        "name": "charts.vega_lite_chart",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.vega_lite_chart.py"
+    },
+    {
+        "name": "charts.video",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/charts.video.py"
+    },
+    {
+        "name": "data.dataframe",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/data.dataframe.py"
+    },
+    {
+        "name": "data.json",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/data.json.py"
+    },
+    {
+        "name": "data.table",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/data.table.py"
+    },
+    {
+        "name": "text.code",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.code.py"
+    },
+    {
+        "name": "text.header",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.header.py"
+    },
+    {
+        "name": "text.markdown",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.markdown.py"
+    },
+    {
+        "name": "text.subheader",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.subheader.py"
+    },
+    {
+        "name": "text.text",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.text.py"
+    },
+    {
+        "name": "text.title",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.title.py"
+    },
+    {
+        "name": "text.write1",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.write1.py"
+    },
+    {
+        "name": "text.write2",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.write2.py"
+    },
+    {
+        "name": "text.write3",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/text.write3.py"
+    },
+    {
+        "name": "widget.button",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.button.py"
+    },
+    {
+        "name": "widget.checkbox",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.checkbox.py"
+    },
+    {
+        "name": "widget.date_input",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.date_input.py"
+    },
+    {
+        "name": "widget.radio",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.radio.py"
+    },
+    {
+        "name": "widget.selectbox",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.selectbox.py"
+    },
+    {
+        "name": "widget.slider",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.slider.py"
+    },
+    {
+        "name": "widget.text_area",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.text_area.py"
+    },
+    {
+        "name": "widget.text_input",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.text_input.py"
+    },
+    {
+        "name": "widget.time_input",
+        "url": "https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/api-examples-source/widget.time_input.py"
+    }
 ]
