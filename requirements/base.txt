@@ -2,7 +2,7 @@ boto3==1.9.249
 botocore==1.17.42
 numpy==1.17.2
 pandas==0.25.1
-Pillow==7.1.0
+Pillow==8.2.0
 requests==2.22.0
 streamlit==0.65.1
 tornado==5.1.1
